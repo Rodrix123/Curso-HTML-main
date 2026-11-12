@@ -1,0 +1,19 @@
+div{
+    background-color: coral;
+    width: 500px;
+    margin:auto;
+    text-align: center;
+
+    /*BORDER*/
+    border-width: 10px;
+    border-color: black;
+
+    /*solid/dashed/suble/groove/dotted/hidden*/
+    border-style: solid;
+    /*
+    redondeo caudarado -> pixeles
+    redondeo porcentaje -> centro  del cuadrado
+    */
+    border-radius: 100px;
+
+}

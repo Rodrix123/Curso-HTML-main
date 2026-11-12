@@ -1,0 +1,15 @@
+.box{
+    background: red;
+    height: 150px;
+    width: 150px;
+    /*Siempre queda el margen mas grande (margin colapse)*/
+    margin: 20px
+}
+.box2{
+    background: red;
+    height: 150px;
+    width: 150px;
+    /*Siempre queda el margen mas grande (margin colapse) / ademas dsegun su tamaño depende de su posicion */
+    margin-top: 100px
+}
+
